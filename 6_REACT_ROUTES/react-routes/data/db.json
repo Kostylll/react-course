@@ -1,0 +1,19 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Notebook Dell XPS",
+            "price": 1299.99
+        },
+        {
+            "id": 2,
+            "name": "Smartphone Galaxy S21",
+            "price": 899.99
+        },
+        {
+            "id": 3,
+            "name": "Headphones Sony WH-1000XM4",
+            "price": 349.99
+        }
+    ]
+}

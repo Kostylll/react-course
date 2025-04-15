@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": "P002",
+      "name": "Smartphone XS",
+      "price": 1299.99
+    },
+    {
+      "id": "P003",
+      "name": "Wireless Headphones",
+      "price": 199.99
+    },
+    {
+      "id": "P004",
+      "name": "Gaming Laptop",
+      "price": 3499.99
+    },
+    {
+      "id": "P005",
+      "name": "Smartwatch Pro",
+      "price": 299.99
+    },
+    {
+      "id": "f4a4",
+      "name": "Escova",
+      "price": "20.00"
+    },
+    {
+      "id": "84ba",
+      "name": "Escova",
+      "price": "20.00"
+    }
+  ]
+}
